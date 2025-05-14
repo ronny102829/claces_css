@@ -1,0 +1,34 @@
+.vandera{
+      height: 600px;
+    background: black;
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.uno{
+    height: 150px;
+    width: 100px;
+    background: rgb(233, 26, 26);
+
+    border: 2px solid #f51212;
+
+}
+.dos {
+    height: 150px;
+    width: 100px;
+    background: #fffefe;
+    border: 2px solid #e9dcdc;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.tres{
+    height: 150px;
+    width: 100px;
+    background: red;
+    border: 2px solid #f01414;
+}
+img{    
+   width: 90px;
+}
